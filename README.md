@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything!**
 
-- 📫 How to reach me **baldithomas@hotmail.it**
+- 📫 You can reach me at: **baldithomas@hotmail.it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
