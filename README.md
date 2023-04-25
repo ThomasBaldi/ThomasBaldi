@@ -12,9 +12,7 @@
 - 📫 You can reach me at: **baldithomas@hotmail.it**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-https://www.linkedin.com/in/thomas-baldi-44181296/
-</p>
+<p align="left"> <a href="https://discord.com/users/Thomas Baldi#4297" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/thomas-baldi-44181296/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
