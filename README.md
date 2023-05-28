@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m looking for my first dev related job as a **junior software developer**
 
-- 👨‍🎓 I’m currently completing my professional degree in Backend Development and will start on a full-stack project once the end-project is delivered.
+- 👨‍🎓 I’m currently completing my professional degree in Backend Development and will thereafter start on a full-stack project while learning **React**.
 
 - 💬 Ask me about **anything!**
 
