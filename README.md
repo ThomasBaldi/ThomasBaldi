@@ -1,5 +1,5 @@
 <h1 align="center">Ciao 👋, I'm Thomas</h1>
-<h3 align="center">An enthusiastic italo-norwegian backend developer/student</h3>
+<h3 align="center">An enthusiastic italo-norwegian backend developer</h3>
 
 - 🔭 I’m currently working on **my next personal project**
 
