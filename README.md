@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **my next personal project**
 
-- 👨‍💻 I’m looking for my first dev related job as a **junior software developer**
-
 - 👨‍🎓 I’ve recently completed my professional degree in Backend Development and am currently working on a personal full-stack project while practicing my new **React** skills, apart from continuousely learning new stuff.
 
 - 💬 Ask me about **anything!**
